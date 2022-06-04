@@ -2,13 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prakharjn12.prakharjn12)
 
-🔭 I'm a budding web developer , keen to explore and master latest technologies 
+🔭 I'm a budding web developer , keen to explore and master latest technologies .
 
 🌱 I’m currently persuing B.Tech in Electrical Engineering From MNNIT Allahabad
 
-📫 Email me on prakharjain211@gmail.com
-
-⚡ True fact: Ask me a doubt and it becomes a solution
+📫 SWE Intern at Microsoft ,working on Azure Devops and Telemetry.
 
 🌱 Agenda ::I'm  a Competitive programmer, currently learning Object Oriented Programming  and Data Structures in C++
 
